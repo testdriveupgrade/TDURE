@@ -1,0 +1,4 @@
+D:/rec_apps/tr/out/build/win-amd64-debug/CMakeFiles/testrec_codegen.dir
+D:/rec_apps/tr/out/build/win-amd64-debug/CMakeFiles/testrec.dir
+D:/rec_apps/tr/out/build/win-amd64-debug/CMakeFiles/edit_cache.dir
+D:/rec_apps/tr/out/build/win-amd64-debug/CMakeFiles/rebuild_cache.dir
