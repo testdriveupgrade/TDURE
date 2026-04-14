@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="github.com/testdriveupgrade/TDURE/blob/main/image.webp" width="512"/>
+<img src="image.webp" width="512"/>
  </p>
 
 == How to install? ==
